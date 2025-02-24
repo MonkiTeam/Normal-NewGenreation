@@ -1,1 +1,6 @@
-
+local GameId = game.GameId
+if GameId == 1451439645 then -- fisch
+  loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/eee6516412dd689ab79217548b3ff620.lua"))()
+else
+  warn("kuy rai")
+end
