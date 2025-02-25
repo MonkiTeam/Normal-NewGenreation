@@ -3,7 +3,7 @@ local GameId = game.GameId
 if GameId == 1451439645 then -- King Legacy
     loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/433e187d8fde29e868715dffd964adcf.lua"))()
 elseif GameId == 5750914919 then -- Fisch
-
+    loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/1fe18789650025a9e109061f40f05cc7.lua"))()
 elseif GameId == 994732206 then
 
 else -- Unknown
