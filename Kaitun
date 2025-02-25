@@ -3,6 +3,9 @@ if GameId == 5750914919 then -- fisch
   loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/eee6516412dd689ab79217548b3ff620.lua"))()
 elseif GameId == 1451439645 then
   loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/dec58032d8c8419849b8b50b9657a91d.lua"))()
+elseif GameId == 6401952734 then
+loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/ae6191fbffb3f0d9d536a49700b0cf4e.lua"))()
+
 else
   warn("kuy rai")
 end
