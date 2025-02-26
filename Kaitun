@@ -4,8 +4,9 @@ if GameId == 5750914919 then -- fisch
 elseif GameId == 1451439645 then
   loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/dec58032d8c8419849b8b50b9657a91d.lua"))()
 elseif GameId == 6401952734 then
-loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/ae6191fbffb3f0d9d536a49700b0cf4e.lua"))()
-
+  loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/ae6191fbffb3f0d9d536a49700b0cf4e.lua"))()
+elseif GameId == 3183403065 then -- Anime Adventures
+  loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/d6043a6e7bdb8624a50564082df12699.lua"))()
 else
   warn("kuy rai")
 end
