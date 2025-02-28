@@ -6,6 +6,8 @@ elseif GameId == 5750914919 then -- Fisch
     loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/1fe18789650025a9e109061f40f05cc7.lua"))()
 elseif GameId == 3101667897 then
     loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/d9f931ba841ff120d992f6ca76a4e4e9.lua"))()
+elseif GameId == 13076380114 then
+    loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/5a2ed575b48bbc935075f956b95984c4.lua"))()
 else -- Unknown
     warn("map kuy rai i sus")
 end
