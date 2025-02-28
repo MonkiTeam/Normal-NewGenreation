@@ -9,7 +9,7 @@ elseif GameId == 3101667897 then
 elseif GameId == 13076380114 then
     loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/5a2ed575b48bbc935075f956b95984c4.lua"))()
 elseif GameId == 95295765150201 then
-    loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/d4fb6982f15e72be1c79c9bf81ea486c.lua"))()
+    loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/d4fb6982f15e72be1c79c9bf81ea486c.lua"))() -- Rock Fruit
 else -- Unknown
     warn("map kuy rai i sus")
 end
