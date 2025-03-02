@@ -1547,25 +1547,14 @@ local module_upvr = {
 		BobberBottom = Color3.fromRGB(255, 255, 255);
 	};
 }
-local function _() -- Line 1855, Named "count"
-	--[[ Upvalues[1]:
-		[1]: module_upvr (readonly)
-	]]
-	local var121
-	for _, v in module_upvr do
-		if typeof(v) == "table" and not v.Unregistered then
-			var121 += 1
-		end
-	end
-	return var121
-end
+
 local var122
 for _, v_2 in module_upvr do
 	if typeof(v_2) == "table" and not v_2.Unregistered then
 		var122 += 1
 	end
 end
-module_upvr.RegisteredNumberOfRods = var122
+
 local tbl = {}
 var122 = "Nates Blade"
 tbl["Nates Blade"] = var122
