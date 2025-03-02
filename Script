@@ -10,7 +10,7 @@ elseif GameId == 4568630521 then -- Heroes Battle
     loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/5a2ed575b48bbc935075f956b95984c4.lua"))()
 elseif GameId == 6793832056 then -- Rock Fruit
     loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/d4fb6982f15e72be1c79c9bf81ea486c.lua"))()
-elseif GameId == 4658598196 or GameId == 4658598196 then -- AOTR
+elseif GameId == 4658598196 then -- AOTR
     loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/d041a82e50dea8704d120ab126671660.lua"))()
 elseif GameId == 1202096104 then -- Driving Empire
     loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/93428abab9c200af0f3b9873b0554ed9.lua"))()
