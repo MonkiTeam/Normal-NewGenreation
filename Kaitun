@@ -7,6 +7,8 @@ elseif GameId == 6401952734 then
   loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/ae6191fbffb3f0d9d536a49700b0cf4e.lua"))()
 elseif GameId == 3183403065 then -- Anime Adventures
   loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/d6043a6e7bdb8624a50564082df12699.lua"))()
+elseif GameId == 6325068386 then -- Blue Lock Rival
+loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/9cc2ed1a720d2cbf8c83f2d4199e5afd.lua"))()
 else
   warn("kuy rai")
 end
