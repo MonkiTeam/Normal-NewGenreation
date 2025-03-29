@@ -9,6 +9,10 @@ elseif GameId == 3183403065 then -- Anime Adventures
   loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/d6043a6e7bdb8624a50564082df12699.lua"))()
 elseif GameId == 6325068386 then -- Blue Lock Rival
 loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/9cc2ed1a720d2cbf8c83f2d4199e5afd.lua"))()
+elseif GameId == 6325068386 then -- Blue Lock Rival
+loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/9cc2ed1a720d2cbf8c83f2d4199e5afd.lua"))()
+elseif GameId == 7074860883 then -- Arise crossover
+loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/26a31756811b77d351fc44252cb32676.lua"))()
 else
   warn("kuy rai")
 end
