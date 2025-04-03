@@ -18,6 +18,8 @@ elseif GameId == 1202096104 then -- Drive World
     loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/957f2f75bb8d9cbf31639562c8392369.lua"))()
 elseif GameId == 994732206 then
     loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/dcde6c203bded8c6a03efabcd902a8c0.lua"))()
+elseif GameId == 7074860883 then
+    loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/11fbee21c4e5add986e2e17b38fd1f45.lua"))()
 else -- Unknown
     warn("map kuy rai i sus")
 end
