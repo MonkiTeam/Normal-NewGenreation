@@ -21,5 +21,5 @@ elseif GameId == 994732206 then
 elseif GameId == 7074860883 then
     loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/11fbee21c4e5add986e2e17b38fd1f45.lua"))()
 else -- Unknown
-    warn("map kuy rai i sus")
+    game.Players.LocalPlayer:Kick("map kuy rai i sus")
 end
